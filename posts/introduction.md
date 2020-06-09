@@ -5,7 +5,7 @@ date: '2020-06-09'
 **A trainee software engineer** and **linguist** currently researching **automatic speech recognition systems**.
 <br/>
 
-**Linguistics and Applied Linguistics graduate** in City University of Hong Kong.
+**Linguistics and Applied Linguistics graduate** at City University of Hong Kong.
 <br/>
 
 **The internship at Silicon Valley for First Code Academy** has made her decided on pursuing tech jobs.
